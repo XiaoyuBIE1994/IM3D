@@ -1,2 +1,1 @@
-# IM3D
-这个项目放上的是关于3D视觉课上3个TP的解答
+# SLAM(simutaneous localization and mapping) Algorithm for fun
